@@ -9,7 +9,7 @@ weight: 2
 
 Here you will find documentation for Open IAS Scoreboard for developers of the software.
 
-This section is for the developers of Open IAS Scoreboard. If you would simply like to use Open IAS Scoreboard, please refer to the [user documentation](/user) instead.
+This section is for the developers of Open IAS Scoreboard. If you would simply like to use Open IAS Scoreboard, please refer to the [user documentation](/users) instead.
 
 ### Getting Started
 
@@ -18,3 +18,7 @@ Open IAS Scoreboard is made using Electron-Forge which uses Electron to be able 
 First you need to setup your development enviroment.
 
 [How to setup](setup)
+
+After you have set up your development enviorment, refer to the developing documentation.
+
+[Developing](developing)

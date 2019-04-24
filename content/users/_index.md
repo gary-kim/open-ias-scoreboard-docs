@@ -8,4 +8,7 @@ weight: 1
 
 Here you will find documentation for Open IAS Scoreboard for users of the software.
 
+#### To install Open IAS Scoreboard, refer to the [setup instructions](setup).
+#### To use Open IAS Scoreboard, refer to the [usage instructions](use).
+
 This section is for users of Open IAS Scoreboard. If you would like to help with development, please refer to the [developer documentation](/dev) instead.

@@ -13,8 +13,23 @@ Add your code
 
 #### 2. Check your code
 
-[Run ESLint](eslint)
+Once you have added your modifications, from the root of the project, run 
+```
+yarn test
+```
+to run ESLint to check the quality of your code.
 
-#### 3. Submit a pull request
+[Learn More](eslint)
+
+#### 3. Commit your changes
+
+Once you have made your changes and checked it, you can now commit it. Please make your commit messages descriptive and useful. In the commit message, state what the commit is (bug fix, feature, improvement), then add a description for the change.
+
+Example:
+```
+Bug fix: prevent line break in team name
+```
+
+#### 4. Submit a pull request
 
 [Submit a Pull Request](pullrequest)

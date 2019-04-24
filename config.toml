@@ -10,6 +10,8 @@ defaultContentLanguage = "en"
 
     github_doc_repository = "https://github.com/gary-kim/open-ias-scoreboard-docs"
 
+    custom_css = ["css/app.css"]
+
 [[menu.main]]
     name = "Home"
     url = "/"

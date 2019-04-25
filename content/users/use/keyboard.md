@@ -4,9 +4,13 @@ date: 2019-04-22T17:56:21+08:00
 weight: 98
 ---
 
-## This page will detail keyboard mappings for Open IAS Scoreboard
+## This page will detail keyboard shortcuts for Open IAS Scoreboard
 
-### Keyboard combinations
+---
+
+#### Open IAS Scoreboard contains many useful keyboard shortcuts to make it far easier to manage the scoreboard in fast moving and stressful enviorments. The keyboard shortcuts avaliable in Open IAS Scoreboard are listed below.
+
+### Keyboard shortcuts
 
 - Scoreboard Tabs
     - New Tab: `ctrl+t`

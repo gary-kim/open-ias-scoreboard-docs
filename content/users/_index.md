@@ -6,6 +6,8 @@ weight: 1
 
 ## Open IAS Scoreboard
 
+---
+
 Here you will find documentation for Open IAS Scoreboard for users of the software.
 
 #### To install Open IAS Scoreboard, refer to the [setup instructions](setup).

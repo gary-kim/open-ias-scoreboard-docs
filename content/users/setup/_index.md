@@ -6,6 +6,8 @@ weight: 1
 
 ## Installing Open IAS Scoreboard
 
+---
+
 1. [Download Latest Version](https://github.com/gary-kim/open-ias-scoreboard/releases)
     - Download the version for your Operating System
         - macOS: Darwin

@@ -5,6 +5,8 @@ date: 2019-04-22T13:12:29+08:00
 
 # Open IAS Scoreboard Documentation
 
+---
+
 ### [Download Open IAS Scoreboard](https://github.com/gary-kim/open-ias-scoreboard/releases)
 
 ### Here you will find documentation for setting up, using, maintaining, and developing for Open IAS Scoreboard.

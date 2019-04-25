@@ -29,13 +29,13 @@ First, fork the Open IAS Scoreboard repository on GitHub
 ![Fork Button on GitHub](/img/github-fork.png)
 
 After you have forked the repository on GitHub, clone the repository to your computer
-```
+```bash
 # Replace <username> with your username
 git clone --recursive https://github.com/<username>/open-ias-scoreboard.git
 ```
 
 Before you start coding, you are going to need to download the dependencies of the program.
-```
+```bash
 cd open-ias-scoreboard
 yarn
 ```

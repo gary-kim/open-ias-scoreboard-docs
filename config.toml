@@ -4,6 +4,7 @@ title = "Open IAS Scoreboard Documentation"
 theme = "hugo-theme-techdoc"
 
 defaultContentLanguage = "en"
+pygmentsCodeFences = true
 
 [Params]
     github_repository = "https://github.com/gary-kim/open-ias-scoreboard"

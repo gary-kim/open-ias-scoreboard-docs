@@ -13,6 +13,7 @@ weight: 1
         - Linux
             - Debian Based (Ubuntu/Mint/etc): .deb
             - Red Hat Based: .rpm
+1. Double click to run
 1. [Setup New Scoreboard](/users/setup/scoreboard) 
 
 ---

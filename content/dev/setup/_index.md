@@ -16,7 +16,7 @@ Prerequisites:
 The rest of the prerequisites will be automatically installed when the `yarn` command is run.
 
 On Ubuntu and Ubuntu deriviatives, these can be automatically installed by running the following command
-```
+```bash
 # Copy and paste into bash
 # A sudo password will be required
 sudo apt-get update && sudo apt-get install -y nodejs npm git

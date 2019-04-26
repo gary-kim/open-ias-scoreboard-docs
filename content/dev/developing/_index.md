@@ -30,6 +30,14 @@ Example:
 Bug fix: prevent line break in team name
 ```
 
+To commit all changes, run the following command from the project folder
+```bash
+# Should be run in the open-ias-scoreboard directory
+# This command will open your text editor where you can add your commit message
+git commit -a
+```
+If you have set up a PGP key with GitHub, it would be appreciated if you can sign your commit using the `-S` flag.
+
 #### 4. Submit a pull request
 
 [Submit a Pull Request](pullrequest)

@@ -1,12 +1,15 @@
 window.onload = main;
 
 async function main() {
-    let info = (await (await fetch("https://api.github.com/repos/gary-kim/open-ias-scoreboard/releases")).json())[0].assets;
+    let info = (await (await fetch("https://api.github.com/repos/gary-kim/open-ias-scoreboard/releases")).json())[0];
     
     document.querySelectorAll('.download-links').forEach((curr) => {
-        setLinks(curr, info);
+        setLinks(curr, info.assets);
     });
-    console.log(info[0].assets)
+    
+    let version_dom = document.querySelector('#version');
+    version_dom.innerText = info.name + ' Changelog';
+    version_dom.href = info.html_url;
 }
 async function getRelease(info, type) {
     return info.filter(current => current.content_type == type)[0];

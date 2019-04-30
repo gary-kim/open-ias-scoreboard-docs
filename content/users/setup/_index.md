@@ -9,7 +9,7 @@ weight: 1
 ---
 
 1. [Download Latest Version from GitHub](https://github.com/gary-kim/open-ias-scoreboard/releases)
-    - Download the version for your Operating System
+    - Download the version for your Operating System (<a href="#" id="version">Changelog</a>)
         - macOS: <a id="macos-download" class="download-links" download-type="application/zip">macOS</a>
         - Windows: <a id="windows-download" class="download-links" download-type="application/x-ms-dos-executable">Setup.exe</a>
         - Linux

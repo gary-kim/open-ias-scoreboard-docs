@@ -40,5 +40,18 @@ cd open-ias-scoreboard
 yarn
 ```
 
+---
+
+#### Run Open IAS Scoreboard
+
+Now, you have Open IAS Scoreboard and all of its dependencies installed. You can now run the program.
+
+```bash
+# Run this command to start Open IAS Scoreboard from the project root
+yarn start
+```
+
+---
+
 #### Now that you have the code on your computer, fire up your favorite IDE and get coding!
 [Developing Instructions](/dev/developing)

@@ -21,7 +21,16 @@ to run ESLint to check the quality of your code.
 
 [Learn More](eslint)
 
-#### 3. Commit your changes
+#### 3. Run your Program
+
+Once you have made your changes and checked them with ESLint, you can now run and test your changes.
+
+```bash
+# Run this command to start Open IAS Scoreboard from the project root
+yarn start
+```
+
+#### 4. Commit your changes
 
 Once you have made your changes and checked it, you can now commit it. Please make your commit messages descriptive and useful. In the commit message, state what the commit is (bug fix, feature, improvement), a colon (:), then add a description for the change.
 
@@ -38,6 +47,6 @@ git commit -a
 ```
 If you have set up a PGP key with GitHub, it would be appreciated if you can sign your commit using the `-S` flag.
 
-#### 4. Submit a pull request
+#### 5. Submit a pull request
 
 [Submit a Pull Request](pullrequest)

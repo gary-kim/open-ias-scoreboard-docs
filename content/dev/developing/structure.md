@@ -1,6 +1,7 @@
 ---
 title: "Program Structure"
 date: 2019-04-26T12:26:19+08:00
+weight: 1
 ---
 
 ## Open IAS Scoreboard Structure

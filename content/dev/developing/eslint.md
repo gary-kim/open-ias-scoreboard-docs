@@ -1,6 +1,7 @@
 ---
 title: "ESLint"
 date: 2019-04-23T22:41:00+08:00
+weight: 3
 ---
 
 ## Using ESLint to Check Your Code

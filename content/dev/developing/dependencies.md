@@ -13,17 +13,11 @@ The Open IAS Scoreboard project uses [yarn](https://yarnpkg.com/en/) to handle d
 
 ```bash
 # Run this command to add a dependency from the project root
-yarn add dependency-to-add
+npm install --save dependency-to-add
 ```
 
 ---
 
 ### Updating All Dependencies
 
-The following command will upgrade all dependencies
-
-```bash
-# Run this command to upgrade all dependencies from the project root
-yarn upgrade
-```
-This will usually be done early in each release cycle by the project maintainer.
+This will usually be done early in each release cycle by the project maintainer. Please make an issue if you need a dependency to be upgraded later in the release cycle.

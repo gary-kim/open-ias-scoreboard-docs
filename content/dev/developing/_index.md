@@ -15,7 +15,7 @@ Add your code
 
 Once you have added your modifications, from the root of the project, run 
 ```bash
-yarn test
+npm test
 ```
 to run ESLint to check the quality of your code.
 
@@ -27,7 +27,7 @@ Once you have made your changes and checked them with ESLint, you can now run an
 
 ```bash
 # Run this command to start Open IAS Scoreboard from the project root
-yarn start
+npm start
 ```
 
 #### 4. Commit your changes

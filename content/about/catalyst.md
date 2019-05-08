@@ -1,6 +1,7 @@
 ---
 title: "For Catalyst"
 date: 2019-04-22T22:52:53+08:00
+weight: 2
 ---
 
 ### Open IAS Scoreboard was originally developed for Singapore American School's Digital Frontiers club by Gary Kim.

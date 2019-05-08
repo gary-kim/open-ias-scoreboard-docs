@@ -8,7 +8,7 @@ weight: 3
 
 Once you have added your modifications, from the root of the project, run
 ```bash
-yarn test
+npm test
 ```
 to run ESLint to check the quality of your code.
 

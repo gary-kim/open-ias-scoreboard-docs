@@ -12,14 +12,16 @@ Prerequisites:
     - `npm`
     - `yarn`
 - `git`
+- `electron-forge`
 
-The rest of the prerequisites will be automatically installed when the `yarn` command is run.
+The rest of the prerequisites will be automatically installed when the `npm install` command is run.
 
 On Ubuntu and Ubuntu deriviatives, these can be automatically installed by running the following command
 ```bash
 # Copy and paste into bash
 # A sudo password will be required
 sudo apt-get update && sudo apt-get install -y nodejs npm git
+sudo npm install -g electron-forge
 sudo npm install -g yarn
 ```
 ---
@@ -37,7 +39,7 @@ git clone --recursive https://github.com/<username>/open-ias-scoreboard.git
 Before you start coding, you are going to need to download the dependencies of the program.
 ```bash
 cd open-ias-scoreboard
-yarn
+npm install
 ```
 
 ---
@@ -48,7 +50,7 @@ Now, you have Open IAS Scoreboard and all of its dependencies installed. You can
 
 ```bash
 # Run this command to start Open IAS Scoreboard from the project root
-yarn start
+npm start
 ```
 
 ---

@@ -17,3 +17,10 @@ Open IAS Scoreboard is a software for displaying and controlling a scoreboard. I
 #### If you would like to develop and improve Open iAS Scoreboard, refer to the [Developer Documentation](/dev)
 
 Open IAS Scoreboard is Free and Open Source and licensed under [AGPL-3.0-only](https://github.com/gary-kim/open-ias-scoreboard/blob/master/LICENSE). You are free to use for any purpose, study, modify, and distribute the software as long as you fulfill your obligations as outlined in the [AGPL-3.0-only](https://github.com/gary-kim/open-ias-scoreboard/blob/master/LICENSE) license.
+
+---
+
+### Screenshots
+
+![Control Board Screenshot](/img/controlboard-screenshot.png)
+![Scoreboard Screenshot](/img/scoreboard-screenshot.png)

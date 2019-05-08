@@ -6,6 +6,7 @@ date: 2019-04-22T17:26:44+08:00
 ### Create New Scoreboard
 
 To create a new scoreboard, press `ctrl+t` on your keyboard or press the `+` button on the right of the tab list.
+![Open Scoreboard Button](/img/open-tab.png)
 
 ### Close Scoreboard
 

@@ -23,4 +23,5 @@ Open IAS Scoreboard is Free and Open Source and licensed under [AGPL-3.0-only](h
 ### Screenshots
 
 ![Control Board Screenshot](/img/controlboard-screenshot.png)
+
 ![Scoreboard Screenshot](/img/scoreboard-screenshot.png)

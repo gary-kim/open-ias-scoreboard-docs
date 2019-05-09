@@ -13,10 +13,10 @@ weight: 98
 ### Keyboard shortcuts
 
 - Scoreboard Tabs
-    - New Tab: `ctrl+t`
+    - New Tab: `ctrlOrCmd+t`
     - Next Tab: `ctrl+tab`
     - Previous Tab: `ctrl+shift+tab`
-    - Close Tab: `ctrl+w`
+    - Close Tab: `ctrlorCmd+w`
 - Scoreboard Controls
     - Home
         - Increase Score: `i`

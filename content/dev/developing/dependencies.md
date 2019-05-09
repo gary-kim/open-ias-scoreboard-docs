@@ -6,7 +6,7 @@ weight: 2
 
 ## Managing Dependencies in Open IAS Scoreboard
 
-The Open IAS Scoreboard project uses [yarn](https://yarnpkg.com/en/) to handle dependencies.
+The Open IAS Scoreboard project uses npm to handle dependencies.
 
 ### Adding a Dependency
 

@@ -13,9 +13,13 @@ To create a new scoreboard, press `ctrl+t` on your keyboard or press the `+` but
 
 To close a scoreboard, make sure you are on that scoreboard tab then press `ctrl+w` or click the `close scoreboard` button at the center of the control board.
 
+![Close Scoreboard Screenshot](/img/close-scoreboard-screenshot.png)
+
 ### Rename Scoreboard
 
 To rename a scoreboard, make sure you are on that scoreboard tab, then select the name text field at the center of the control board and type in the new name.
+
+![Rename Scoreboard Screenshot](/img/rename-scoreboard-screenshot.png)
 
 ### Configure Team Name/Team Logo
 

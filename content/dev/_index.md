@@ -15,6 +15,8 @@ This section is for the developers of Open IAS Scoreboard. If you would simply l
 
 Open IAS Scoreboard is made using Electron-Forge which uses Electron to be able to use web development languages and philosophy to create a locally running program.
 
+No matter your current skill level, you are welcome to contribute improvements to the code, documentation, or anything else that you think would be helpful to the Open IAS Scoreboard project.
+
 First you need to setup your development enviroment.
 
 [How to setup](setup)

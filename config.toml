@@ -5,6 +5,7 @@ theme = "hugo-theme-techdoc"
 
 defaultContentLanguage = "en"
 pygmentsCodeFences = true
+enableGitInfo = true
 
 [Params]
     github_repository = "https://github.com/gary-kim/open-ias-scoreboard"

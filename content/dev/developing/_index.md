@@ -17,9 +17,9 @@ Once you have added your modifications, from the root of the project, run
 ```bash
 npm test
 ```
-to run ESLint to check the quality of your code.
+to run ESLint and run units tests to check the quality of your code.
 
-[Learn More](eslint)
+[Learn More](test)
 
 #### 3. Run your Program
 

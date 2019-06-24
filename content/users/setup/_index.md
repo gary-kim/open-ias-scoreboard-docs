@@ -13,6 +13,7 @@ weight: 1
         - macOS: <a id="macos-download" class="download-links" download-type="dmg">macOS</a>
         - Windows: <a id="windows-download" class="download-links" download-type="exe">Setup.exe</a>
         - Linux
+            - AppImage (Run on any Linux distro): <a id="appimage-download" class="download-links" download-type="AppImage">.AppImage</a>
             - Debian Based (Ubuntu/Mint/etc): <a id="deb-download" class="download-links" download-type="deb">.deb</a>
             - Red Hat Based: <a id="rpm-download" class="download-links" download-type="rpm">.rpm</a>
     - The [changelog](https://github.com/gary-kim/open-ias-scoreboard/releases) is avaliable on the GitHub repo

@@ -11,3 +11,4 @@ Thank you to everyone who has contirbuted features, bug fixes, or improvements t
 ### Authors/Contributors
 
 * Gary Kim &lt;<gary@garykim.dev>&gt;
+* Supun Lakmal Abesekara &lt;<supunlakmal61@gmail.com>&gt;

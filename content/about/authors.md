@@ -12,3 +12,4 @@ Thank you to everyone who has contirbuted features, bug fixes, or improvements t
 
 * Gary Kim &lt;<gary@garykim.dev>&gt;
 * Supun Lakmal Abesekara &lt;<supunlakmal61@gmail.com>&gt;
+* Ryan Jung &lt;<ryan.matthew.jung@gmail.com>&gt;
